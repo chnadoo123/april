@@ -3,7 +3,10 @@ hello
 hello how are you
 
 hello this is from cli
+<<<<<<< HEAD
 hello
 hello this is from github:wq
 
+=======
+>>>>>>> parent of 2c480b7 (last commitwq)
 
