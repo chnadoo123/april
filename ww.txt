@@ -1,1 +1,5 @@
+
 hello added from master branch`
+=======
+this commit is from dev branch
+>>>>>>> dev
